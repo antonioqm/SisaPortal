@@ -1,9 +1,9 @@
 # ![logo] (https://github.com/antonioqm/SisaPortal/blob/master/sisa_small.png) 
 ## Instâncias
  Quais são as instâcias de Serviço ambientais?
-* Onu, instância internacional;
-* Brasil, instânia Nacional e;
-* Sisa, Instância subnacional.
+* Onu, `instância internacional`;
+* Brasil, `instânia Nacional` e;
+* Sisa, `Instância subnacional`.
 Val ressaltar essas instâncias não são do Sisa, dele são apenas as intiruições, que estão 'abaixo' dele.
  Onde entram as instituições?
 * Dentro das instâncias subnacionais temos as intituições e;
@@ -27,17 +27,15 @@ Val ressaltar essas instâncias não são do Sisa, dele são apenas as intiruiç
 
 O serviço ambiental não é o Sisa quem faz, é a natureza quem faz, o Sisa apenas promove, sendo assim um provedor de serviços ambientais.
 
-Geralmente quem compra o crédito de carbono
-
 
 ##Notícias
 Seguir o padrão do Uol, além de ter a imagem e o texto, o uol também tem uma pequena descrição/chamento da notícia.
 
 ##Design
-Seria importante se existisse, antes chegar na apresentação das instâncias do Sisa, um mecanismo de contextualização do conteúdo, explicando, antes de quem faz o Sisa, falar o que é o Sisa. 
+>Seria importante se existisse, antes chegar na apresentação das instâncias do Sisa, um mecanismo de contextualização do conteúdo, explicando, antes de quem faz o Sisa, falar o que é o Sisa. 
 
 ##sugestão
-Uma linha te tempo capaz de explicar o que é o sisa, antes de dizer quem faz ele. 
+>Uma linha te tempo capaz de explicar o que é o sisa, antes de dizer quem faz ele. 
 
 
 
