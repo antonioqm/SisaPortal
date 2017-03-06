@@ -1,4 +1,15 @@
 # ![logo] (https://github.com/antonioqm/SisaPortal/blob/master/sisa_small.png) 
+
+## Publico-Alvo
+Pessoas que trabalham na área ambiental.
+> A maioria dos usuários do portal são pessoas que já teem um assunto em meente para procurar no Sisa. Essas pessoas são os concorrentes que são, todos os estados, outros paises e os desenvolvedores, além dos interessasos em desenvolver algum 'projeto'.
+
+##Páginas
+* O que é um serviçø ambiental? 
+* Como desenvolver um projeto de serviço ambiental?
+* Quais instâncias e intituições compõe o Sisa
+
+
 ## Instâncias
  Quais são as instâcias de Serviço ambientais?
 * Onu, `instância internacional`;
@@ -33,6 +44,12 @@ Seguir o padrão do Uol, além de ter a imagem e o texto, o uol também tem uma 
 
 ##Design
 >Seria importante se existisse, antes chegar na apresentação das instâncias do Sisa, um mecanismo de contextualização do conteúdo, explicando, antes de quem faz o Sisa, falar o que é o Sisa. 
+
+> Layout 'Bacaninha' (rsrs), claro e acessível.
+
+> Quem vai acessaro Sisa não é um público comum :) já é um público interessado, são ambientalístas
+
+> Não colocar muita coisa na 'HOME'. (ufa!!! meu sonho).
 
 ##sugestão
 >Uma linha te tempo capaz de explicar o que é o sisa, antes de dizer quem faz ele. 
