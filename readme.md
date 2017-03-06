@@ -1,13 +1,13 @@
 #Portal Sisa ![logo] (https://github.com/antonioqm/SisaPortal/blob/master/sisa_small.png)
 ## Instâncias
  Quais são as instâcias de Serviço ambientais?
- 	* Onu, instância internacional;
- 	* Brasil, instânia Nacional e;
- 	* Sisa, Instância subnacional.
- 	Val ressaltar essas instâncias não são do Sisa, dele são apenas as intiruições, que estão 'abaixo' dele.
+* Onu, instância internacional;
+* Brasil, instânia Nacional e;
+* Sisa, Instância subnacional.
+Val ressaltar essas instâncias não são do Sisa, dele são apenas as intiruições, que estão 'abaixo' dele.
  Onde entram as instituições?
- 	* Dentro das instâncias subnacionais temos as intituições e;
- 	* Dentro das instiuições tem os projetos.
+* Dentro das instâncias subnacionais temos as intituições e;
+* Dentro das instiuições tem os projetos.
 
 
  As instâncias representam os níveis de atuação. Dentro do Sisa também há instiancias, projetos, por exemplo.
