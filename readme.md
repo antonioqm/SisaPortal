@@ -1,5 +1,5 @@
-
-# Instâncias
+#Portal Sisa
+## Instâncias
  Quais são as instâcias de Serviço ambientais?
  	— Onu, instância internacional;
  	— Brasil, instânia Nacional e;
@@ -33,7 +33,7 @@ Geralmente quem compra o crédito de carbono
 ##Notícias
 Seguir o padrão do Uol, além de ter a imagem e o texto, o uol também tem uma pequena descrição/chamento da notícia.
 
-##Design
+###Design
 Seria importante se existisse, antes chegar na apresentação das instâncias do Sisa, um mecanismo de contextualização do conteúdo, explicando, antes de quem faz o Sisa, falar o que é o Sisa. 
 
 ###sugestão
