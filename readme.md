@@ -23,7 +23,7 @@
 — Markit é parceira.
 
 
-#Pagamento por Serviços Ambientais (PSA)
+##Pagamento por Serviços Ambientais (PSA)
 
 O serviço ambiental não é o Sisa quem faz, é a natureza quem faz, o Sisa apenas promove, sendo assim um provedor de serviços ambientais.
 
@@ -33,10 +33,10 @@ Geralmente quem compra o crédito de carbono
 ##Notícias
 Seguir o padrão do Uol, além de ter a imagem e o texto, o uol também tem uma pequena descrição/chamento da notícia.
 
-###Design
+##Design
 Seria importante se existisse, antes chegar na apresentação das instâncias do Sisa, um mecanismo de contextualização do conteúdo, explicando, antes de quem faz o Sisa, falar o que é o Sisa. 
 
-###sugestão
+##sugestão
 Uma linha te tempo capaz de explicar o que é o sisa, antes de dizer quem faz ele. 
 
 
