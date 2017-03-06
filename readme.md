@@ -1,4 +1,4 @@
-# ![logo] (https://github.com/antonioqm/SisaPortal/blob/master/sisa_small.png) 
+# ![logo] (https://github.com/antonioqm/SisaPortal/blob/master/sisa.png) 
 
 ## Publico-Alvo
 Pessoas que trabalham na área ambiental.
@@ -24,7 +24,7 @@ Val ressaltar essas instâncias não são do Sisa, dele são apenas as intiruiç
  As instâncias representam os níveis de atuação. Dentro do Sisa também há instiancias, projetos, por exemplo.
  Existe um arquivo do tipo organograma que, explica bem as instâncias do Sisa. Porém o termo utilizado dentro do Sisa será intituiçõe ou componentes, e não instâncias, mas será necessário estabelecer a competências de cada uma
 
-## Oonu
+## Onu
  A Onu tem o mecanismo de ligar as nações e dentro das nações vc tem o estados subnacionais;
  O Sisa está em um Estado subnacional, por meio da União.
 
@@ -39,8 +39,13 @@ Val ressaltar essas instâncias não são do Sisa, dele são apenas as intiruiç
 O serviço ambiental não é o Sisa quem faz, é a natureza quem faz, o Sisa apenas promove, sendo assim um provedor de serviços ambientais.
 
 
-##Notícias
+#Notícias
 Seguir o padrão do Uol, além de ter a imagem e o texto, o uol também tem uma pequena descrição/chamento da notícia.
+
+##Projetos
+O filtro da busca deverá ser feito por Programas e dentro de programas será prossível localizar os projetos do Programas. 
+> O ideial é que se tenha os links dos projetos
+> O mapa pode ficar, desque que seja apenas para auxuiliar o filtro, mas não sendo o único filtro. Ex de defiltro: `Programas` `>` `municípios` `>` `projetos`.
 
 ##Design
 >Seria importante se existisse, antes chegar na apresentação das instâncias do Sisa, um mecanismo de contextualização do conteúdo, explicando, antes de quem faz o Sisa, falar o que é o Sisa. 
@@ -52,7 +57,7 @@ Seguir o padrão do Uol, além de ter a imagem e o texto, o uol também tem uma 
 > Não colocar muita coisa na 'HOME'. (ufa!!! meu sonho).
 
 ##sugestão
->Uma linha te tempo capaz de explicar o que é o sisa, antes de dizer quem faz ele. 
+>Uma linha te tempo capaz de explicar o que é o sisa, antes de dizer o que faz ele. 
 
 
 
